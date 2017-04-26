@@ -1,5 +1,5 @@
 # redis window版本启动命令
-cmd到redis安装目录下 <br>>
+cmd到redis安装目录下 <br>
 redis-server redis.window.conf <br>
 redis-server redis.window.conf --maxheap 200m (内存限制启动受阻时指定内存启动) <br>
 
